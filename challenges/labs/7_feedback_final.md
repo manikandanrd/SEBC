@@ -1,0 +1,4 @@
+Describe the boot camp: was it useful, difficult, simple? - Lots of challenging taks and it is difficut, those labs helped us to learn more regarding the cloudera platform.
+Which topic was least familiar to you? Which topic was most familiar? Least familiar - Securing the cluster Most Familiar - Creating user and accessing files in HDFS
+Which topic did you feel was most helpful? Which topic was not useful, if any? - Installing CDH and securiting with Kerberos and Sentry
+How long before you are ready to to install a production cluster by yourself? What do you need to work on? - Am planning to set up some lab clusters on couple of different customer environment to help start their POC's
